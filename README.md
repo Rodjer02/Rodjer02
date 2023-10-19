@@ -5,7 +5,7 @@ I'm Frontend developer from Kazakhstan(Astana)🇰🇿.
 
 - :telescope: Bachelor's degree in Computer Engineering
 - :zap:  Frontend developer (STEP academy Astana)
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Telegram&logoColor=white)]([your-linkedin-url](https://t.me/fp_v_n))
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Telegram&logoColor=white)]([https://t.me/fp_v_n])
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
